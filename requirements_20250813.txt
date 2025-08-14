@@ -1,0 +1,8 @@
+streamlit
+yfinance
+transformers
+accelerate
+datasets
+pandas
+numpy
+matplotlib
